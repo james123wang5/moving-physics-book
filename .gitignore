@@ -1,0 +1,8 @@
+node_modules
+dist/
+.DS_Store
+._*
+# 教材 PDF 只作个人参考，不进仓库
+参考资料/
+# 第二期 skill 是独立的 git 仓库（github.com/james123wang5/every-joule-style）
+第二期-风格skill/every-joule-style/
